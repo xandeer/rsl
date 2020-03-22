@@ -19,3 +19,7 @@ path = "src/format.rs"
 [[bin]]
 name = "enum"
 path = "src/enum.rs"
+
+[[bin]]
+name = "linked-list"
+path = "src/linked-list.rs"
