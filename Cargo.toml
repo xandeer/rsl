@@ -12,7 +12,10 @@ edition = "2018"
 name = "display"
 path = "src/display.rs"
 
-
 [[bin]]
 name = "format"
 path = "src/format.rs"
+
+[[bin]]
+name = "enum"
+path = "src/enum.rs"
