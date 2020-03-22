@@ -11,3 +11,8 @@ edition = "2018"
 [[bin]]
 name = "display"
 path = "src/display.rs"
+
+
+[[bin]]
+name = "format"
+path = "src/format.rs"
