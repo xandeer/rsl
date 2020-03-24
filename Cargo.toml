@@ -27,3 +27,7 @@ path = "src/linked-list.rs"
 [[bin]]
 name = "for"
 path = "src/for.rs"
+
+[[bin]]
+name = "match"
+path = "src/match.rs"
