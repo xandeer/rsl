@@ -23,3 +23,7 @@ path = "src/enum.rs"
 [[bin]]
 name = "linked-list"
 path = "src/linked-list.rs"
+
+[[bin]]
+name = "for"
+path = "src/for.rs"
